@@ -1,5 +1,6 @@
 *
 !.gitignore
 !Assignment1-Tingjun-Yuan.ipynb
+!report
 !report/*.bib
 !report/*.tex
