@@ -4,3 +4,5 @@
 !report
 !report/*.bib
 !report/*.tex
+!models
+!models/*
