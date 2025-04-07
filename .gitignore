@@ -4,6 +4,7 @@
 !report
 !report/*.bib
 !report/*.tex
+!report/*.pdf
 !models
 !models/*
 !run-inference.ipynb
